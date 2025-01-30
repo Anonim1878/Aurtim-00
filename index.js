@@ -1,5 +1,1 @@
-.header {}
 
-.main {}
-
-.footer {}
