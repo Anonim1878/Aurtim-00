@@ -1,0 +1,12 @@
+<svg width="25.000000" height="25.000000" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_1_240" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image1_24_0" transform="matrix(0.02,0,0,0.02,0,0)"/>
+		</pattern>
+		<image id="image1_24_0" width="50.000000" height="50.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAABIBJREFUaIHt2WuIVVUUB/DfqFNSaU1lGjqk9DQtMy2ypiJFAkGiIIgoigoijIo0AqGHEPQyg8wS6UP4Co2CHhhlRRFGZEaSJZY9sKhEHVNL8zXTh70P58z1zsy5556xhPnD5czsvdZ/rb3Pfqy1Dr3oRS96cSShoUSuM9GCi3E2TkMTBsb+ndiOn7EBq/EJNpboQ2E041F8i/aCv2/wCIYdXtcDRmIpDmQc2oZlmI7JwhtqQt/4a8JZsW86lkedRP8AFuOcwzGA4zAH+6Pxf6LxidHZWtEPk7AkcrVH7tk4tgR/q2Isvs8Ym4ehJfI3Y770LW/ABSXyg2uxOxr4EmPKNpDBhfgq2tqNa8oivkk6SwvQvyziLtAfL0n3zg31Ek7Gvkj4cL1kBTAr2t4r7MNCGIotkejJcvwqhNnRh804tQjBG5HgXfQpz6+a0QfvR19er1V5UlTcqeAslIxh2CX4dFUtiiuj0swecKooHpKukFw4PSrswgk95FQRnIi/0IYRlZ3V1n5ybr+JP3vOr5rRireFQPeQu6XaQFri850edKooVsRnS5dSERuFpXVuj7lTHKMF376r7OhXRXhQfP5ashNNwgU7EeMxONpqE07H9VgjrISPhRu9Er/E5yl5DCY3eWM9XmcwAnOFjZo3R9mEGQ4NhxqlQWu32ByFB3Un2A0acDf+jnxtwrE+A5cIkcPRGCCclFPwlBD1JgP6EZdnOIfE9tY8DnwdhcfWMYhGvJpxaJH8CVMfTMVa6ezfGfvGxbZ1eYhejsLTchquRF+8Js0apxbkOQpPSN/m7bg3/r80D8FtUfitgg48EPW3qu+tJrhfmo2ui3/fkUfx5Kh0QMjaasEIIRlqw9U16naFBdJluk848XJhUVR6rkaDyVJYUqNedxgoPYSW1aI4Sthk+3FeTp0G4e5px4RajOVEkpfUOrmejYpr5atoDI7yW6r0PSgcpSukl1kzPhQiiezBMi22faDj0r4y8n+RewQRA4TiWbtQg+qu3HNRlF1d0T5Kx8tubmxfWNE+TLhbsm2LMzzNse33asa7yvx2CdWTHbg+klYLaRJ0FglU6vTrpL1vF7KETU4dZd4JQjjfLqScnZ0Yw6XHbtZYAx4X6r6rpMvlDCG22qZjAjczcqwRqpUJWhRcWlmME15p8mqv60TutyhzWT3GOsFjOi7NwhgiLQK0Cxt1ZIXMnNj3Sr3GKjAAf0TuS8sg7IO7pGWiVpyU6R+OPbFvShkGI+ZFzo9K5ETI5X+I5EnhbKxQHdwkHeT4EmzdIy2f5r3TcmO0EIZsxfHR2F6H5hXbhZOvCBrxdLRzEDfW53J1LJfeL6ukjj+P+/AiPs+0L1PbbI6RBoh7cUtZjmeRFO+yv1bcXCHXIOQRSWbYJqzxmbhC+DR3jLCRhwt76lYhofs06qwXkrAeQVLyT2Zrvq6j0WY8I+TledLcPdIPSeN6ZAQRK4Uqxiy1hfkDhf0yF5/hJyEN3iF8IH1PqFsdlA5qRTWiIwXn4wXh9Fv4H/vSi1704v+GfwEIAl2ZzHw+zgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="icons8-messages-50 1" width="25.000000" height="25.000000" fill="url(#pattern_1_240)" fill-opacity="1.000000"/>
+</svg>

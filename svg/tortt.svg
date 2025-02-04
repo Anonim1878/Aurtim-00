@@ -1,0 +1,18 @@
+<svg width="47.000000" height="47.000000" viewBox="0 0 47 47" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_206">
+			<rect id="Frame 20" rx="4.500000" width="46.000000" height="46.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<pattern id="pattern_1_2110" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image1_211_0" transform="matrix(0.01,0,0,0.01,0,0)"/>
+		</pattern>
+		<image id="image1_211_0" width="100.000000" height="100.000000" xlink:href="data:image/png;base64,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"/>
+	</defs>
+	<rect id="Frame 20" rx="4.500000" width="46.000000" height="46.000000" transform="translate(0.500000 0.500000)" fill="#53FF02" fill-opacity="0.490000"/>
+	<g clip-path="url(#clip1_206)">
+		<rect id="icons8-alarm-100 1" x="5.000000" y="5.000000" width="37.000000" height="37.000000" fill="url(#pattern_1_2110)" fill-opacity="1.000000"/>
+	</g>
+</svg>
